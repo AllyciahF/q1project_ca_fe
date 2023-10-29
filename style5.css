@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Chau+Philomene+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Chau+Philomene+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chau+Philomene+One&family=Crimson+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Chau+Philomene+One&family=Crimson+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Bebas+Neue&family=Chau+Philomene+One&family=Crimson+Pro&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.logo{
+    
+    padding: 0 10px;
+}
+
+.NAVBAR{
+    font-family: 'Chau Philomene One', sans-serif;
+    font-size: 65px;
+    line-height: 90px;
+    padding: 0 15px;
+}
+
+
+.NAVBAR a{
+    color: #545454;
+}
+
+div ul{
+    float: right;
+    margin: right 30px;
+}
+
+div ul li{
+    display: inline-block;
+    line-height: 90px;
+    margin: 0 30px;
+    font-size: 50px;
+    font-family: 'Chau Philomene One', sans-serif;
+    
+}
+
+div ul li a{
+    color: #545454;
+    
+}
+.top{
+    top: 0;
+}
+
+a:hover{
+    color: #ffffff;
+    transition: .5s;
+    }
+
+
+
+.top, .low{
+    background-color: #A6A6A6;
+    position: absolute;
+    height: 90px;
+    width: 100%;
+    
+
+}
+
+.low{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+
+body{
+    background-color: #545454;
+}
+
+
+
+.title{
+    font-size: 50px;
+    font-family: 'Black Ops One', sans-serif;
+    color: #A6A6A6;
+    margin-top: 90px;
+
+}
+
+
+
+
+.top, .low{
+    background-color: #A6A6A6;
+    position: absolute;
+    height: 90px;
+    width: 100%;
+    
+
+}
+
+.low{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+
+body{
+    background-color: #545454;
+}
+
+
+
+.title{
+    font-size: 30px;
+    font-family: 'Black Ops One', sans-serif;
+    color: #A6A6A6;
+    margin-top: 90px;
+
+}
+
+.Quali{
+    
+        background-color: #A6A6A6;
+        width: 400px;
+        border: 1px solid #A6A6A6;
+        padding: 20px;
+        margin: 5px;
+        color: white;
+        font-family: arial;
+        font-size: 13px;
+      }
+
+.t{
+    color: white;
+    font-size: 20px;
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+}
+
+
+.Quanti{
+    
+    background-color: #A6A6A6;
+    width: 400px;
+    border: 1px solid #A6A6A6;
+    padding: 20px;
+    margin: 5px;
+    color: white;
+    font-family: arial;
+    font-size: 13px;
+  }
+
+.t2{
+color: white;
+font-size: 20px;
+font-family: 'Bebas Neue', sans-serif;
+text-align: center;
+}
+
+
+.me{
+    
+    background-color: #A6A6A6;
+    width: 500px;
+    border: 1px solid #A6A6A6;
+    padding: 5px;
+    margin-left: 420px;
+    position: absolute;
+    top: 133px ;
+    color: white;
+    font-family: arial;
+    font-size: 13px;
+  }
+
+.ma{
+    background-color: #A6A6A6;
+    width: 330px;
+    border: 1px solid #A6A6A6;
+    padding: 5px;
+    margin-left: 900px;
+    position: absolute;
+    top: 330px;
+    color: white;
+    font-family: arial;
+    font-size: 12px;
+}
+ 
+  .QP{
+    position: absolute;
+    top: 275px;
+    margin-left: 430px;
+  }
+
+  .qua{
+    position: absolute;
+    top: 130px;
+    margin-left: 930px;
+  }
+
+.footer{
+    line-height: 90px;
+    font-size: 30px;
+    font-family: 'Chau Philomene One', sans-serif; 
+}
+
+.footer a{
+    color: #545454; 
+}
+
+.foot{
+ float: right;
+ line-height: 90px;
+ font-size: 60px;
+ color: #545454;
+ margin: 0 10px;
+ font-family: 'Chau Philomene One', sans-serif; 
+}
+
+
+.foot a{
+    color: #545454;
+}
+
+
+
+
+

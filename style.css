@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Chau+Philomene+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Chau+Philomene+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chau+Philomene+One&family=Crimson+Pro&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.logo{
+    
+    padding: 0 10px;
+}
+
+.NAVBAR{
+    font-family: 'Chau Philomene One', sans-serif;
+    font-size: 65px;
+    line-height: 90px;
+    padding: 0 15px;
+}
+
+
+.NAVBAR a{
+    color: #545454;
+}
+
+div ul{
+    float: right;
+    margin: right 30px;
+}
+
+div ul li{
+    display: inline-block;
+    line-height: 90px;
+    margin: 0 30px;
+    font-size: 50px;
+    font-family: 'Chau Philomene One', sans-serif;
+    
+}
+
+div ul li a{
+    color: #545454;
+}
+.top{
+    top: 0;
+}
+
+ a:hover{
+color: #ffffff;
+transition: .5s;
+}
+
+
+.top, .low{
+    background-color: #A6A6A6;
+    position: absolute;
+    height: 90px;
+    width: 100%;
+    
+
+}
+.low{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+body{
+    background-color: #545454;
+}
+
+
+
+.title{
+    font-size: 70px;
+    font-family: 'Black Ops One', sans-serif;
+    text-align: center;
+    color: #A6A6A6;
+    margin-top: 200px;
+
+}
+
+
+.st{
+    font-size: 50px;
+    color: #A6A6A6;
+    text-align: center ;
+    font-family: 'Crimson Pro', serif;;
+}
+
+
+.footer{
+    line-height: 90px;
+    font-size: 30px;
+    font-family: 'Chau Philomene One', sans-serif; 
+}
+
+.footer a{
+    color: #545454; 
+}
+
+.foot a{
+  color: #545454;
+}
+
+.foot{
+ float: right;
+ line-height: 90px;
+ font-size: 60px;
+ color: #545454;
+ margin: 0 10px;
+ font-family: 'Chau Philomene One', sans-serif; 
+}
